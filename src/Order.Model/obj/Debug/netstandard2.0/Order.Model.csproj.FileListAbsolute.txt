@@ -1,0 +1,9 @@
+C:\temp\tech-test\src\Order.Model\bin\Debug\netstandard2.0\Order.Model.deps.json
+C:\temp\tech-test\src\Order.Model\bin\Debug\netstandard2.0\Order.Model.dll
+C:\temp\tech-test\src\Order.Model\bin\Debug\netstandard2.0\Order.Model.pdb
+C:\temp\tech-test\src\Order.Model\obj\Debug\netstandard2.0\Order.Model.csprojAssemblyReference.cache
+C:\temp\tech-test\src\Order.Model\obj\Debug\netstandard2.0\Order.Model.csproj.CoreCompileInputs.cache
+C:\temp\tech-test\src\Order.Model\obj\Debug\netstandard2.0\Order.Model.AssemblyInfoInputs.cache
+C:\temp\tech-test\src\Order.Model\obj\Debug\netstandard2.0\Order.Model.AssemblyInfo.cs
+C:\temp\tech-test\src\Order.Model\obj\Debug\netstandard2.0\Order.Model.dll
+C:\temp\tech-test\src\Order.Model\obj\Debug\netstandard2.0\Order.Model.pdb

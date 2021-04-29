@@ -1,0 +1,14 @@
+C:\temp\tech-test\src\Order.Service\bin\Debug\netstandard2.0\Order.Service.deps.json
+C:\temp\tech-test\src\Order.Service\bin\Debug\netstandard2.0\Order.Service.dll
+C:\temp\tech-test\src\Order.Service\bin\Debug\netstandard2.0\Order.Service.pdb
+C:\temp\tech-test\src\Order.Service\bin\Debug\netstandard2.0\Order.Data.dll
+C:\temp\tech-test\src\Order.Service\bin\Debug\netstandard2.0\Order.Model.dll
+C:\temp\tech-test\src\Order.Service\bin\Debug\netstandard2.0\Order.Data.pdb
+C:\temp\tech-test\src\Order.Service\bin\Debug\netstandard2.0\Order.Model.pdb
+C:\temp\tech-test\src\Order.Service\obj\Debug\netstandard2.0\Order.Service.csprojAssemblyReference.cache
+C:\temp\tech-test\src\Order.Service\obj\Debug\netstandard2.0\Order.Service.csproj.CoreCompileInputs.cache
+C:\temp\tech-test\src\Order.Service\obj\Debug\netstandard2.0\Order.Service.AssemblyInfoInputs.cache
+C:\temp\tech-test\src\Order.Service\obj\Debug\netstandard2.0\Order.Service.AssemblyInfo.cs
+C:\temp\tech-test\src\Order.Service\obj\Debug\netstandard2.0\Order.Service.csproj.CopyComplete
+C:\temp\tech-test\src\Order.Service\obj\Debug\netstandard2.0\Order.Service.dll
+C:\temp\tech-test\src\Order.Service\obj\Debug\netstandard2.0\Order.Service.pdb
